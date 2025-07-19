@@ -1,0 +1,5 @@
+Hello, this is a sample text file.
+It contains multiple lines.
+Each line can have any content you like.
+This is used to demonstrate file reading in Python.
+Enjoy coding!

@@ -1,0 +1,10 @@
+Notebook,100
+Pen,20
+Eraser,0
+Pencil,10
+Ruler,15
+Sticker,0
+Sharpener,5
+Highlighter,30
+Marker,25
+Bag,500
